@@ -7,7 +7,7 @@
 
 This is the example code for getting started with using ECS (Entity Component System) with the bitECS library in Phaser 3.
 
-[It corresponds to a 4 part series on YouTube going over the code!](https://www.youtube.com/playlist?list=PLumYWZ2t7CRtUDC3eEpa5EZgSmbSdBBI7)
+[It corresponds to a 4 part series on YouTube going over the code!](https://www.youtube.com/playlist?list=PLNwtXgWIx3rhz72-UxKLdCDdqFsnwNc_u)
 
 ## Getting Started
 
